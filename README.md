@@ -22,10 +22,12 @@ b = 7
 print(a+b)
 ```
 ### Изображение
-(![Малгобек](https://user-images.githubusercontent.com/91655905/135407084-28fd66ec-5c7b-42b4-b8e2-d48a32289a76.png)
+![Малгобек](https://user-images.githubusercontent.com/91655905/135407084-28fd66ec-5c7b-42b4-b8e2-d48a32289a76.png)
 ### Таблица
-А | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+А | B | C
+------------ | ------------- | -------------
+0 | 0 | 1
+0 | 1 | 1
+1 | 0 | 0
+1 | 1 | 1
 
