@@ -1,5 +1,5 @@
 # Демонстрационный репозиторий
-Этот репозиторий сделан для изучения markdown и создания репозиториев на GitHub
+Этот репозиторий сделан для изучения markdown и репозиториев на GitHub
 ## Markdown
 ### Списки
 Списки бывают разные:
@@ -23,4 +23,9 @@ print(a+b)
 ```
 ### Изображение
 (![Малгобек](https://user-images.githubusercontent.com/91655905/135407084-28fd66ec-5c7b-42b4-b8e2-d48a32289a76.png)
+### Таблица
+А | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
