@@ -21,3 +21,6 @@ a = 4
 b = 7
 print(a+b)
 ```
+### Изображение
+(![Малгобек](https://user-images.githubusercontent.com/91655905/135407084-28fd66ec-5c7b-42b4-b8e2-d48a32289a76.png)
+
